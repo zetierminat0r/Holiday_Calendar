@@ -38,7 +38,3 @@ Distributed under the MIT License. See LICENSE for more information. Because, ye
 ## Disclaimer
 
 This script comes as-is, with no guarantees that it will make you enjoy your job more or look forward to meetings any less. If it accidentally schedules a holiday on a weekend, our apologies, but also, you're welcome for the laugh.
-
-## Closing Thoughts
-
-Remember, a well-planned holiday calendar is the first step toward pretending you have your life together. Enjoy responsibly, and always plan your holiday greetings in advance. Who knows? This might be the year you finally send them out on time.
