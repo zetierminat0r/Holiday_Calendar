@@ -7,7 +7,6 @@ Welcome to the Holiday Calendar Generator, the ultimate tool for generating .ics
 ## Features
 
 - **Generate Holiday Calendars**: For any company, any year, and for a duration of "however long you think you'll manage to stay employed."
-- **Customizable**: Want to celebrate "International Talk Like a Pirate Day" as an official company holiday? Arrr, we've got you covered!
 - **Company Specific**: Generates holidays with your company's name, so you know whom to thank for that day off.
 - **Future-Proof**: Designed to work until the year computers decide they no longer need humans. After that, well, you won't need a calendar.
 
