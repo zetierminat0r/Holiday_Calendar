@@ -13,7 +13,7 @@ Welcome to the Holiday Calendar Generator, the ultimate tool for generating .ics
 ## Getting Started
 
 1. Ensure you have Python installed.
-2. Clone this repository using `git clone https://github.com/your-repo/holiday-calendar-generator.git` or just download the ZIP if you're not a smelly nerd.
+2. Clone this repository using `git clone https://github.com/zetierminat0r/holiday-calendar-generator.git` or just download the ZIP if you're not a smelly nerd.
 
 ## Usage
 
